@@ -14,7 +14,7 @@ const char APP_TITLE[] = "Hello World";
 const int WINDOW_WIDTH = 400;
 const int WINDOW_HEIGHT = 400;
 
-
+const int test = 3012;
 
 // ----------------------------------------------------------------------
 // Windowsアプリケーションの開始点
