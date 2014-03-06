@@ -16,6 +16,7 @@ const int WINDOW_HEIGHT = 400;
 
 const int t1 = 1;
 const int t2 = 2;
+const int t3 = 3;
 
 
 // ----------------------------------------------------------------------
